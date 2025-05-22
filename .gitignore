@@ -1,0 +1,16 @@
+# Visual Studio files
+.vs/
+**/*.vsidx
+**/*.suo
+**/*.user
+
+# Build outputs
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+# Local development files
+*.local
+*.cache
